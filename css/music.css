@@ -1,10 +1,10 @@
 body {
   text-align: center;
-  background-color: lightskyblue;
+  background-color: darkturquoise;
 }
+
 h1 {
-  font-size: 40px;
-  color: black;
+  font-family: cursive;
 }
 
 a {
@@ -12,11 +12,13 @@ a {
   color: darkmagenta;
   text-decoration: none;
   background-color: lavender;
+  border-style: line;
+  border-color: black;
 }
 a:hover {
   color: blue;
 }
 
-li {
-  padding-right: 10px;
+ul {
+  display: inline-flex;
 }
