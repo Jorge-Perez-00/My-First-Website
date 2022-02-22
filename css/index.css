@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-color: lightskyblue;
+}
+h1 {
+  font-size: large;
+
+  color: aqua;
+  background-color: black;
+}
+a {
+  color: blue;
+  background-color: lightslategray;
+}
