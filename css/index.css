@@ -3,12 +3,16 @@ body {
   background-color: lightskyblue;
 }
 h1 {
-  font-size: large;
-
-  color: aqua;
-  background-color: black;
+  font-size: 40px;
+  color: black;
 }
+
 a {
+  font-size: 35px;
+  color: darkmagenta;
+  text-decoration: none;
+  background-color: lavender;
+}
+a:hover {
   color: blue;
-  background-color: lightslategray;
 }
