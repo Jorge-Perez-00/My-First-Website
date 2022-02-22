@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  background-color: darkturquoise;
+}
+
+h1 {
+  font-family: cursive;
+}
+
+a {
+  font-size: 30px;
+  color: darkblue;
+  text-decoration: none;
+}
+
+a.home {
+  font-size: 35px;
+  color: darkmagenta;
+  text-decoration: none;
+  background-color: lavender;
+  border-style: line;
+  border-color: black;
+}
+
+a:hover {
+  color: blue;
+}
+
+li {
+  list-style-position: inside;
+  margin-bottom: 20px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px;
+  object-fit: contain;
+}
