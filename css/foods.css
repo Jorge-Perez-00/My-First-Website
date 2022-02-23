@@ -4,6 +4,10 @@ body {
 }
 h1 {
   font-family: 'Times New Roman';
+  font-size: 50px;
+}
+h2 {
+  font-family: arial;
 }
 a.home {
   font-size: 35px;
@@ -16,4 +20,13 @@ a.home {
 
 a:hover {
   color: blue;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px;
+  object-fit: contain;
 }
