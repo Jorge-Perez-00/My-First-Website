@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-color: darkgoldenrod;
+}
+
+a.home {
+  font-size: 35px;
+  color: darkmagenta;
+  text-decoration: none;
+  background-color: lavender;
+  border-style: line;
+  border-color: black;
+}
+
+a:hover {
+  color: blue;
+}
