@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: bisque;
+}
+h1 {
+  font-family: 'Times New Roman';
+  font-size: 50px;
+}
+h2 {
+  font-family: arial;
+}
+a.home {
+  font-size: 35px;
+  color: darkmagenta;
+  text-decoration: none;
+  background-color: lavender;
+  border-style: line;
+  border-color: black;
+}
+
+a:hover {
+  color: blue;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 400px;
+  object-fit: contain;
+}
